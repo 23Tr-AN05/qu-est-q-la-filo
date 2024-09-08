@@ -36,8 +36,13 @@
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
  <img scr="filo.jpg" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
- <p>Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.</p> <br>
- <p>Le philosophe a plutôt un <i><mark> savoir théorique.</mark></i></p>
+ <br>
+ <p id="para3">Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.</p>
+ <p id="para3">Le philosophe a plutôt un <i><mark> savoir théorique.</mark></i></p>
+ <br>
+ <p id="para3">La philosophie est née en Grèce, à Athènes, au IVe siècle avant Jésus-Christ.</p>
+ <p id="para3">L’apparition de la Première démocratie permet la création des débats sur le bien/ le
+mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  
  </body>
 </html>
