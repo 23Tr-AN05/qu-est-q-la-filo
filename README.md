@@ -16,7 +16,8 @@
 
  </style>
  <style type="text/css">
- .exemple{display:inline-block; border:1px solid #666; margin-top:15px; padding: 5px}
+ .exemple{ background-color : red; color :#000 } 
+</style>
  </style></head>
 
  <body>
