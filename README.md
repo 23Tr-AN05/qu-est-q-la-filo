@@ -22,7 +22,7 @@
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
  ![alt text](filo.jpg)
- <img scr="Desktop/github/qu-est-q-la-filo/filo.jpg" width="200" height="100"/>
+ <img scr="github/qu-est-q-la-filo/filo.jpg" width="200" height="100"/>
  <p id="para3"> La philosophie est donc l'amour de </p>
  </body>
 </html>
