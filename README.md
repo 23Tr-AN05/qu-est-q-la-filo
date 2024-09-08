@@ -2,17 +2,17 @@
 <html>
  <head><style>
     #para1{
-        font-size:20px;
+        font-size:80px;
         text-align:center;
         color:red
     }
     #para2{
-        font-size:10px;
+        font-size:40px;
         text-align:left;
         color:red
     }
     #para3{
-        font-size:8px;
+        font-size:30px;
         text-align:left;
         color:#000000
     }
