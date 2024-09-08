@@ -2,7 +2,7 @@
 <html>
  <head><style>
     #para1{
-        font-size:70px;
+        font-size:60px;
         text-align:center;
         color:red
     }
@@ -12,7 +12,7 @@
         color:red
     }
     #para3{
-        font-size:30px;
+        font-size:20px;
         text-align:left;
         color:#000000
     }
@@ -43,7 +43,9 @@
  <p id="para3">La philosophie est née en Grèce, à Athènes, au IVe siècle avant Jésus-Christ.</p>
  <p id="para3">L’apparition de la Première démocratie permet la création des débats sur le bien/ le
 mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
- 
+ <br>
+ <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
+
  </body>
 </html>
 
