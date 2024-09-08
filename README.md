@@ -21,9 +21,8 @@
  <br>
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
- ![alt text](filo.jpg)
- <img scr="https://github.com/23Tr-AN05/qu-est-q-la-filo/issues/1#issue-2512539096" width="200" height="100"/>
- <p id="para3"> La philosophie est donc l'amour de la sagesse et de savoir. </p>
+ <img scr="filo.jpg" width="200" height="100"/>
+ <p id="para3"> La philosophie est donc l'amour de la <b color="red"> sagesse </b> et de<b color="red"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  </body>
 </html>
 
