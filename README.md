@@ -11,7 +11,7 @@
     }
     #para3{
         text-align:left;
-        color:black
+        color:#000000
     }
 
  </style></head>
@@ -23,7 +23,7 @@
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
  ![alt text](filo.jpg)
  <img scr="Desktop/github/qu-est-q-la-filo/filo.jpg" width="200" height="100"/>
- <p id="para3"> LA philosophie est donc l'amour de </p>
+ <p id="para3"> La philosophie est donc l'amour de </p>
  </body>
 </html>
 
