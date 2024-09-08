@@ -17,11 +17,14 @@
         background-color:yellow;
         color:black;
     }
+    #p1{
+        font-size:13px;
+    }
 
  </style></head>
 
  <body>
- <font size="13pt"> <h1 id="para1">QU'EST-CE QUE LA PHILOSOPHIE?</h1></font>
+ <p id="p1"><h1 id="para1">QU'EST-CE QUE LA PHILOSOPHIE?</h1></p>
  <br>
  <br>
  <FONT size="8pt">
