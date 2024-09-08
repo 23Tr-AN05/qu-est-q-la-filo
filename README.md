@@ -21,10 +21,10 @@
  </style></head>
 
  <body>
- <h1 id="para1">QU'EST-CE QUE LA PHILOSOPHIE?</h1>
+ <font size="16pt"> <h1 id="para1">QU'EST-CE QUE LA PHILOSOPHIE?</h1></font>
  <br>
  <br>
- <FONT size="14pt">
+ <FONT size="10pt">
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
  <img scr="filo.jpg" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
