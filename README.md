@@ -50,15 +50,17 @@
  <p id="para3">Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.
  <br> Le philosophe a plutôt un <i><mark> savoir théorique.</mark></i></p>
  <br>
- <p id="para3">La philosophie est née en Grèce, à Athènes, au IVe siècle avant Jésus-Christ.
+ <p id="para3">La philosophie est née en Grèce, à Athènes, au IV<sup>e</sup> siècle avant Jésus-Christ.
  </br> L’apparition de la Première démocratie permet la création des débats sur le bien/ le
 mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
  <ol>
       <li id="para3">au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
-      <li id="para3">➢ à la <i id="para4"> mythologie, la science</i><br><b id="para5"></b>QUE PUIS-JE CONNAÎTRE ?</li>
-</ol>
+      <li id="para3">➢ à la <i id="para4"> mythologie, la science</i><br><b id="para5"></b>QUE PUIS-JE CONNAÎTRE ?</b></li>
+ </ol>
+ <br>
+ <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières) </p>
  
 
  </body>
