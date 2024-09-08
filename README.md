@@ -16,6 +16,16 @@
         text-align:left;
         color:#000000
     }
+    #para4{
+        font-size:20px;
+        text-align:left;
+        color:#00FF00;
+    }
+    #para5{
+        font-size:28px;
+        text-align:center;
+        color:#FF0000;
+    }
     mark{
         background-color:yellow;
         color:black;
@@ -45,7 +55,10 @@
 mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
- <li id="para3">
+ <ol>
+      <li id="para3">au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
+      <li id="para3">➢ à la <i id="para4"> mythologie, la science</i><br><b id="para5"></b>QUE PUIS-JE CONNAÎTRE ?</li>
+</ol>
  
 
  </body>
