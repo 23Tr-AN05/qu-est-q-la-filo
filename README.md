@@ -14,10 +14,6 @@
         color:#000000
     }
 
- </style>
- <style type="text/css">
- .exemple{ background-color : red; color :#000 } 
-</style>
  </style></head>
 
  <body>
@@ -27,7 +23,7 @@
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
  <img scr="filo.jpg" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
- <p>Le Sage (≠philosophe) <div class="exemple">pratique, en acte</div>,</p>
+ <p>Le Sage (≠philosophe) <mark>pratique, en acte<mark>,</p>
  </body>
 </html>
 
