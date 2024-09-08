@@ -2,7 +2,7 @@
 <html>
  <head><style>
     #para1{
-        font-size:14px;
+        font-size:20px;
         text-align:center;
         color:red
     }
