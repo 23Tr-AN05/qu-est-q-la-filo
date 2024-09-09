@@ -51,7 +51,6 @@
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>  
  <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
- <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
  <img scr="filo.jpg" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  <br>
@@ -100,7 +99,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="480" allow="autoplay"></iframe>
 <br><br>
 
- <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maîeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</p>
+ <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maîeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
 
  
   <table id="p2">
@@ -110,9 +109,9 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <th>La Philosophie</th>
    </tr>
    <tr>
-     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique  (sûr et certain)</b><br /> Ex: Maths<br><hr>- c'est un <b style="color:#FF0000;"> savoir zététique  (toujours en recherche)</b></p></td>
-     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique </b> qui se repose <br>sur des livres sacrés<br> <b style="color:#FF0F00;"> Les vérités sont révélées</b><br> - elle repose sur <b style="color:#0000FF;">la foi </b> et <b style="color:#0000FF"> la croyance</b></p></td>
-     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir zététique</b></p></td>     
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique  (sûr et certain)</b><br /> Ex: Maths<hr>- c'est un <b style="color:#FF0000;"> savoir zététique  (toujours en recherche)</b></p></td>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique </b> qui se <br>repose sur des livres sacrés<br><hr> <b style="color:#FF0F00;"> -Les vérités sont révélées</b><br> - elle repose sur <b style="color:#0000FF;">la foi </b> et <b style="color:#0000FF"> la croyance</b></p></td>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir zététique</b><hr><br> - elle repose sur <b style="color:#0000FF;">des faits </b> et <b style="color:#0000FF"> des arguments</b><hr> -Exigence éthique: <b style="color:#000FFF;"> ✗ la morale</b> <br></p></td>     
    </tr>
  </table> 
  
