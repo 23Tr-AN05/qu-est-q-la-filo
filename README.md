@@ -100,7 +100,8 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  </ul>
 
  <img src="C:\Users\OZCELEBI Ali Can\Desktop\github\qu-est-q-la-filo\filo.pgn" alt="Logo HubSpot"/>
-<iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
+ <img src="qu-est-q-la-filo\filo.pgn" alt="Logo HubSpot"/>
+ <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
 
  </body>
 </html>
