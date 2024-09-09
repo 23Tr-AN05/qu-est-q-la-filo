@@ -108,6 +108,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  
  
  </body>
+ <img scr="image-1.png" width="500" height="150"/> 
 </html>
 
 
