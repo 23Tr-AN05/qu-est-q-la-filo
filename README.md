@@ -44,7 +44,7 @@
  <br>
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
- <img scr="filo.jpg" width="500" height="150"/>
+ <img scr="![alt text](image.png)" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  <br>
  <p id="para3">Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.
@@ -60,9 +60,9 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
       <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
       <li id="para3">φ.à la mort =<i id="para4">la finitude</i></li>
       <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
-      <li id="para5">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
+      <li id="para3">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
- <p id="para5">QU’EST-CE QUE L’HOMME ?</p>
+ <p id="para5"><b>QU’EST-CE QUE L’HOMME ?</b></p>
  <br>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  <br>
