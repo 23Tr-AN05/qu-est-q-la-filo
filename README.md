@@ -72,7 +72,9 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  <br>
  <br>
- <p id="para3"> La mort est 
+ <p id="para3"> La mort est <font color="#FF0000">nécessaire (c-à-d. ce qui ne peut pas ne pas être)</font>.
+ <br>            <font color="#AA0000">≠ contingent.e (c-à-d. ce qui peut ne pas être)</font>
+ <br>                → La naissance est <b><u> contingente</u></b>.</p>
  
 
  </body>
