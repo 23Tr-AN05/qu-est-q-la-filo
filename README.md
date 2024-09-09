@@ -39,7 +39,8 @@
         text-align:center;
     }
     #p2{
-        font-size:10px;
+        font-size:20px;
+        text-align:center;
     }
 
  </style></head>
@@ -111,7 +112,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <td>Emmanuel KANT</td>
     
    </tr>
-  <table>
+  <table id="p2">
    <tr>
      <th>La Science</th>
      <th>La Religion</th>
@@ -119,8 +120,8 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
    </tr>
    <tr>
      <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique <br /> (sûr et certain)</b><br /> Ex: Maths</p></td>
-     <td style="color:#FF0000;">Emmanuel KANT</td>
-     <td>Filosofia</td>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique </b> qui se repose sur des livres sacrés<br> <b style="color:#FF0F00;"> Les vérités sont révélées</b><br> - elle repose sur <b style="color:#0000FF;">la foi </b> et <b style="color:#0000FF"> la croyance</b></p></td>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique <br /> (sûr et certain)</b><br /> Ex: Maths</p></td>     
    </tr>
  </table> 
  
