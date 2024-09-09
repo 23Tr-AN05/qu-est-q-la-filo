@@ -79,23 +79,10 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</font></p>
-  
- <table>
-   <tr>
-     <th>La Science</th>
-     <th>La Religion</th>
-     <th>La Philosophie</th>
-   </tr>
-   <tr>
-     <td><p  id="p1">- c'est un <font color:"red"> savoir apodictique <br> (sûr et certain)</font><br> Ex: Maths</p></td>
-     <td>Emmanuel KANT</td>
-     <td>Filosofia</td>
-   </tr>
- </table>
- <br><br> 
- <img scr="image-1.png" width="500" height="150"/> <--fonctionne mais non-->
-
+  <br><br> 
+ <img scr="image-1.png" width="500" height="150"/> 
  
+ <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
 
  <p id="para3">La philosophie doit chercher à être:</p>
  <ul>
@@ -108,7 +95,6 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  
  
  </body>
- <img scr="image-1.png" width="500" height="150"/> 
 </html>
 
 
