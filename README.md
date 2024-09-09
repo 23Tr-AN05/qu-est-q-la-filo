@@ -60,7 +60,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
       <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
       <li id="para3">φ.à la mort =<i id="para4">la finitude</i></li>
       <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
-      <li id="para3">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
+      <li id="para5">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
  <p color:#698373>QU’EST-CE QUE L’HOMME ?</p>
  <br>
