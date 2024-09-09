@@ -86,7 +86,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <th>La Philosophie</th>
    </tr>
    <tr>
-     <td><p  id="p1">- c'est un <font color:"#FF0000"> savoir apodictique <br> (sûr et certain)</font><br> Ex: Maths</p></td>
+     <td><p  id="p1">- c'est un <font color:"red"> savoir apodictique <br> (sûr et certain)</font><br> Ex: Maths</p></td>
      <td>Emmanuel KANT</td>
      <td>Filosofia</td>
    </tr>
