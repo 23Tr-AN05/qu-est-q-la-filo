@@ -55,10 +55,11 @@
 mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
- <ol>
-      <li id="para3">au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
-      <li id="para3">➢ à la <i id="para4"> mythologie, la science</i><br><b id="para5"></b>QUE PUIS-JE CONNAÎTRE ?</b></li>
- </ol>
+ <ul>
+      <li id="para3">➢au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
+      <li id="para3">➢ à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
+      <li id="para>
+ </ul>
  <br>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  
