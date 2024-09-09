@@ -31,6 +31,11 @@
         text-align:left;
         color:#13A640;
     }
+     #para7{
+        font-size:30px;
+        text-align:center;
+        color:red
+    }
     mark{
         background-color:yellow;
         color:black;
@@ -84,7 +89,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <img scr="image-1.png" width="500" height="150"/> 
  
  <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
- 
+ <br><br>
   <table id="p2">
    <tr>
      <th>La Science</th>
@@ -99,7 +104,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir zététique</b><hr /><br /> - elle repose sur <b style="color:#0000FF;">des faits </b> et <b style="color:#0000FF"> des arguments</b><hr /> -Exigence éthique: <b style="color:#000FFF;"><br>✗ la morale</b><br>✗ soi-même <br> ✗ sur les autres (Hommes et animaux) <br> ✗ Sur la planète <hr>  <b style="color:#00FF00;">- Pourquoi?</b><br> Sur le sens de l'existence <hr><b style="color:#0000FF;"><i> - Laïque</i></b> <br /></p></td>     
    </tr>
  </table> 
-
+<br>
  <p id="para3">La philosophie doit chercher à être:</p>
  <ul>
     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
@@ -121,13 +126,24 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  
  <p id="para3">SOCRATE a été accusé de 3 chefs d'inculpation (accusation):</p>
- <ul style="liste-style-type:lower-alpha">
+ <ol style="liste-style-type:lower-alpha">
      <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Corruption <font style="color:#000000;">(dégradation / pourriture)</font> de la jeunesse </li>
      <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Ne pas croire aux dieux de la Cité <font style="color:#000000;"> (les dieux d'Olympe)</font> </li>
      <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Introduire un nouveau dieu dans la Cité</li>
- </ul>
+ </ol>
  <br>
- 
+ <p id="para3">Son ami CHÉRÉPHON s’est rendu à Delphes, au Temple d’Apollon, où exerce une prêtresse nommée la PYTHIE.
+ <br> Chéréphon demande à la Pythie : « Quel est le plus sage des Hommes », La Pythie répond qu’il s’agit de Socrate. </p>
+ <br>
+ <p id="para3">Pour résoudre l’énigme de l’oracle, Socrate se rend sur agora (place publique) afin de questionner les personnes qui sont sensées avoir une connaissance sur leur pratique : artisans, poètes, politiciens….
+ <br>Ce dont Socrate s’aperçoit, c’est qu’elles pensent savoir mais elles ne savent pas. Donc, Socrate est sage en ce qu’il sait, qu’il a conscience qu’il ne sait pas :</p>
+ <p id="para7">  « Ce que je sqis, c'est que je ne sais pas / rien. »</p>
+ <p id="para3">Socrate était un homme qui ne craignait pas la mort et suivait la justice sans
+tenir compte des lois instituées pas les hommes. </p>
+
+ <br><br>
+ <hr>
+ <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  
 
  
