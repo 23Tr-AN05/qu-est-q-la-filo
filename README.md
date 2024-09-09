@@ -84,23 +84,6 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <img scr="image-1.png" width="500" height="150"/> 
  
  <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
-
- <p id="para3">La philosophie doit chercher à être:</p>
- <ul>
-    <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
-     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. rigoureuse: arguments, démonstrations </li>
-     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
- </ul>
- <br><br>
- <p id="para3">Modèle du Philosophie et du Sage: <font color="FF0000"><b>SOCRATE</b></font>,né au IV<sup>e</sup> siècle avant Jésus-Christ à Athènes.
- <br> Son père est un tailleur de pierre et un sculpteur.
- <br>Sa mère est une sage-femme.</p>
-<br>
- <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="480" allow="autoplay"></iframe>
-<br><br>
-
- <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
-
  
   <table id="p2">
    <tr>
@@ -116,6 +99,29 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir zététique</b><hr /><br /> - elle repose sur <b style="color:#0000FF;">des faits </b> et <b style="color:#0000FF"> des arguments</b><hr /> -Exigence éthique: <b style="color:#000FFF;"> ✗ la morale</b><br>✗ soi-même <br> ✗ sur les autres (Hommes et animaux) <br> ✗ Sur la planète <hr>  </b><b style="color:#00FF00;">- Pourquoi?</b><br> Sur le sens de l'existence <hr><b style="color:#0000FF;"><i> - Laïque</i></b> <br /></p></td>     
    </tr>
  </table> 
+
+ <p id="para3">La philosophie doit chercher à être:</p>
+ <ul>
+    <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. rigoureuse: arguments, démonstrations </li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
+ </ul>
+ <br><br>
+ <p id="para3">Modèle du Philosophie et du Sage: <font color="FF0000"><b>SOCRATE</b></font>,né au IV<sup>e</sup> siècle avant Jésus-Christ à Athènes.
+ <br> Son père est un tailleur de pierre et un sculpteur.
+ <br>Sa mère est une sage-femme.</p>
+ <br>
+ <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br><br>
+
+ <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
+
+ 
+ <p id="para3">La maïeutique repose sur <i style="color=#E715FF"> la théorie de la réminiscence</i> (croyance indoeuropéenne): nos âmes auraient contemplé, dans le monde des Idées (bonheur, vérité, justice, …), toutes les vérités. Mais, au moment où elles s’incarnent, elles oublienttout. Le but de la maïeutique est de retrouver ces Idées oubliées.</p>
+ 
+ 
+
+ 
  
  </body>
 </html>
