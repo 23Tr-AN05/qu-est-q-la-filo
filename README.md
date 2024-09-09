@@ -60,11 +60,11 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
       <li id="para3">φ   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
       <li id="para3"></li>
  </ul>
-<ol style="list-style-type: UTF-8 ">
+<ul style="list-style-type: UTF-8 ">
       <li id="para3">φ  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
       <li id="para3">φ   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
       <li id="para3"></li>
- </ol>
+ </ul>
 
 
 
