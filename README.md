@@ -22,9 +22,9 @@
         color:#00FF00;
     }
     #para5{
-        font-size:28px;
+        font-size:40px;
         text-align:center;
-        color:#FF0000;
+        color:#FF1000;
     }
     mark{
         background-color:yellow;
@@ -62,7 +62,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
       <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
       <li id="para5">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
- <p color:#698373>QU’EST-CE QUE L’HOMME ?</p>
+ <p id="para5">QU’EST-CE QUE L’HOMME ?</p>
  <br>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  <br>
