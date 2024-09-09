@@ -26,6 +26,11 @@
         text-align:center;
         color:#FF1000;
     }
+    #para6{
+        font-size:20px;
+        text-align:left;
+        color:#00FFFF
+    }
     mark{
         background-color:yellow;
         color:black;
@@ -62,7 +67,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
       <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
       <li id="para3">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
- <p id="para5"><b>QU’EST-CE QUE L’HOMME ?</b></p>
+ <p id="para5" style="border: 1px solid black; padding: 10px;"><b>QU’EST-CE QUE L’HOMME ?</b></p>
  <br>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  <br>
@@ -70,6 +75,10 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3"> La mort est <font color="#FF0000">nécessaire (c-à-d. ce qui ne peut pas ne pas être)</font>.
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font color="#AA0000">≠ contingent.e (c-à-d. ce qui peut ne pas être)</font>
  <br>    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → La naissance est <b><u> contingente</u></b>.</p>
+ <br>
+ <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</p>
+  
  
 
  </body>
