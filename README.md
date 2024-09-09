@@ -29,7 +29,7 @@
     #para6{
         font-size:20px;
         text-align:left;
-        color:#00FFFF
+        color:#13A640;
     }
     mark{
         background-color:yellow;
@@ -115,9 +115,18 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br><br>
 
  <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
-
+<br>
  
- <p id="para3">La maïeutique repose sur <i style="color=#E715FF"> la théorie de la réminiscence</i> (croyance indoeuropéenne): nos âmes auraient contemplé, dans le monde des Idées (bonheur, vérité, justice, …), toutes les vérités. Mais, au moment où elles s’incarnent, elles oublienttout. Le but de la maïeutique est de retrouver ces Idées oubliées.</p>
+ <p id="para3">La maïeutique repose sur <i style="color=#E715FF"> la théorie de la réminiscence</i> (croyance indoeuropéenne): nos âmes auraient contemplé, dans le monde des Idées (bonheur, vérité, justice, …), toutes les vérités. Mais, au moment où<br> elles s’incarnent, elles oublienttout. Le but de la maïeutique est de retrouver ces Idées oubliées.</p>
+ <br>
+ 
+ <p id="para3">SOCRATE a été accusé de 3 chefs d'inculpation (accusation):</p>
+ <ul style="liste-style-type:lower-alpha">
+     <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Corruption <font style="color:#000000;">(dégradation / pourriture)</font> de la jeunesse </li>
+     <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Ne pas croire aux dieux de la Cité <font style="color:#000000;"> (les dieux d'Olympe)</font> </li>
+     <li id="para6"> &nbsp;&nbsp; &nbsp;&nbsp; Introduire un nouveau dieu dans la Cité</li>
+ </ul>
+ <br>
  
  
 
