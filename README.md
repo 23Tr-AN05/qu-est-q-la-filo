@@ -58,10 +58,11 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <ul>
       <li id="para3">φ.  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
       <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
-      <li id="para3">φ.</li>
+      <li id="para3">φ.à la mort =<i id="para4">la finitude</i><br><b id="para5"></b></li>
+      <li id="para3">φ.à la <i id="para4">religion</i><br><b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
+      <li id="para3">φ.à la <i id="para4">morale</i><br><b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
-
-
+ <p style="color:#698373">QU’EST-CE QUE L’HOMME ?</p>
  <br>
  <p id="para3"><i><u>=><font size="40pt"> 4 </font> questions fondamentales de la phlosophie, Emmanuel KANT, philosophe allemand du XVIII<sup>e</sup> siècle (Les Lumières)</u></i> </p>
  <br>
