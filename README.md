@@ -143,9 +143,11 @@ tenir compte des lois instituées pas les hommes. </p>
 
  <br><br>
  <hr>
+ <p id="para3">Si vous trouvez des faute d'ortograf n'hésitez pas me contacter via : ozcelebialican2005@gmail.com </p>
+ <hr>
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  
-
+ <iframe src="https://drive.google.com/file/d/1-tvcfk4wfHdoVw6xwjGGo0-UQZUSB7LU/preview" width="640" height="480" allow="autoplay"></iframe>
  
  
  </body>
