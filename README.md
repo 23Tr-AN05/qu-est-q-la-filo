@@ -99,7 +99,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
 
- <img src="https://assets.codepen.io/6093409/sprockt.svg" alt="Logo HubSpot"/>
+ <img src="C:\Users\OZCELEBI Ali Can\Desktop\github\qu-est-q-la-filo\filo.pgn" alt="Logo HubSpot"/>
 <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
 
  </body>
