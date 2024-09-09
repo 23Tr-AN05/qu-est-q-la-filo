@@ -56,16 +56,10 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
  <ul>
-      <li id="para3">φ  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
-      <li id="para3">φ   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
-      <li id="para3"></li>
+      <li id="para3">φ.  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
+      <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
+      <li id="para3">φ.</li>
  </ul>
-<ul style="list-style-type: UTF-8 ">
-      <li id="para3">φ  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
-      <li id="para3">φ   à la <i id="para4"> mythologie, la science</i><br><b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
-      <li id="para3"></li>
- </ul>
-
 
 
  <br>
