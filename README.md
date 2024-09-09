@@ -36,7 +36,7 @@
         color:black;
     }
     #p1{
-        font-size:14px;
+        text-align:center;
     }
     #p2{
         font-size:10px;
@@ -77,10 +77,20 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → La naissance est <b><u> contingente</u></b>.</p>
  <br>
  <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
-  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</p>
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</font></p>
   
- 
-
+ <table>
+   <tr>
+     <th>La Science</th>
+     <th>La Religion</th>
+     <th>La Philosophie</th>
+   </tr>
+   <tr>
+     <td id="p1">- c'est un <font color:"#FF0000"> savoir apodictique <br> (sûr et certain)</font><br> Ex: Maths</td>
+     <td>Emmanuel KANT</td>
+     <td>Filosofia</td>
+   </tr>
+</table>
  </body>
 </html>
 
