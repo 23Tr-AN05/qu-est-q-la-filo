@@ -100,6 +100,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
 
+<img scr="image-1.png" width="500" height="150"/>>
  
  ![alt text](image-1.png)
  </body>
