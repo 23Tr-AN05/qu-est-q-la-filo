@@ -101,11 +101,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  </ul>
 
  
- <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" ></iframe>
- 
-
- <img scr="https://github-production-user-asset-6210df.s3.amazonaws.com/148104545/365733070-eac9a0c5-6f15-41a7-99c1-018b2c70c4bf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240909%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240909T163143Z&X-Amz-Expires=300&X-Amz-Signature=f8f6ab76d9e4708ba70a89b11ac42597650161c4822d30f4af917f3c1e1fe418&X-Amz-SignedHeaders=host&actor_id=148104545&key_id=0&repo_id=854205654" width="500" height="150"/>
- <img scr="https://github.com/user-attachments/assets/eac9a0c5-6f15-41a7-99c1-018b2c70c4bf" width="500" height="150"/> 
+ ![alt text](image-1.png)
  </body>
 </html>
 
