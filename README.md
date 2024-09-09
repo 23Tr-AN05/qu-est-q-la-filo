@@ -56,7 +56,7 @@
  <br> Le philosophe a plutôt un <i><mark> savoir théorique.</mark></i></p>
  <br>
  <p id="para3">La philosophie est née en Grèce, à Athènes, au IV<sup>e</sup> siècle avant Jésus-Christ.
- </br> L’apparition de la Première démocratie permet la création des débats sur le bien/ le
+ <br> L’apparition de la Première démocratie permet la création des débats sur le bien/ le
 mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
@@ -90,7 +90,17 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <td>Emmanuel KANT</td>
      <td>Filosofia</td>
    </tr>
-</table>
+ </table>
+ <br><br>
+ <p id="para3">La philosophie doit chercher à être:</p>
+ <ul>
+      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. rigoureuse: arguments, démonstrations </li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique →</li>
+ </ul>
+
+
+
  </body>
 </html>
 
