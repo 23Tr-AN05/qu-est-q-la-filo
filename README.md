@@ -73,8 +73,8 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <br>
  <p id="para3"> La mort est <font color="#FF0000">nécessaire (c-à-d. ce qui ne peut pas ne pas être)</font>.
- <br>            <font color="#AA0000">≠ contingent.e (c-à-d. ce qui peut ne pas être)</font>
- <br>                → La naissance est <b><u> contingente</u></b>.</p>
+ <br>  &nbsp;&nbsp;          <font color="#AA0000">≠ contingent.e (c-à-d. ce qui peut ne pas être)</font>
+ <br>    &nbsp;&nbsp;&nbsp;            → La naissance est <b><u> contingente</u></b>.</p>
  
 
  </body>
