@@ -48,7 +48,8 @@
  <h1 id="para1">QU'EST-CE QUE LA PHILOSOPHIE?</h1>
  <br>
  <br>
- <p id="para2">L'étymologie grecque du mot "Philosophie":</p>
+ <p id="para2">L'étymologie grecque du mot "Philosophie":</p>  
+ <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
  <img scr="![alt text](image.png)" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  <br>
@@ -99,15 +100,12 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
 
- <img src="C:\Users\OZCELEBI Ali Can\Desktop\github\qu-est-q-la-filo\filo.pgn" alt="Logo HubSpot"/>
- <img src="qu-est-q-la-filo\filo.pgn" alt="Logo HubSpot"/>
+ 
  <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
-  <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" ></iframe>
+ 
 
-
- <img scr="qu-est-q-la-filo\filo.pgn"width="640" height="480"/>
- <img scr="C:\Users\OZCELEBI Ali Can\Desktop\github\qu-est-q-la-filo\filo.pgn"width="640" height="480"/>
-
+ <img scr="qu-est-q-la-filo\filo.pgn" width="500" height="150"/>
+ <img scr="C:\Users\OZCELEBI Ali Can\Desktop\github\qu-est-q-la-filo\filo.pgn" width="500" height="150"/> 
  </body>
 </html>
 
