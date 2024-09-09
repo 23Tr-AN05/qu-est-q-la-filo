@@ -94,12 +94,12 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br><br>
  <p id="para3">La philosophie doit chercher à être:</p>
  <ul>
-      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
+    <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. rigoureuse: arguments, démonstrations </li>
-     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique →</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
 
-
+ <img src="https://assets.codepen.io/6093409/sprockt.svg" alt="Logo HubSpot"/>
 
  </body>
 </html>
