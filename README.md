@@ -90,9 +90,39 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. rigoureuse: arguments, démonstrations </li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
+ <br><br>
+ <p id="para3">Modèle du Philosophie et du Sage: <font color="FF0000"><b>SOCRATE</b></font>,né au IV<sup>e</sup> siècle avant Jésus-Christ à Athènes.
+ <br> Son père est un tailleur de pierre et un sculpteur.
+ <br>Sa mère est une sage-femme.</p>
 
- 
- 
+ <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+ <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maîeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</p>
+
+ <table>
+   <tr>
+     <th>Titre</th>
+     <th>Auteur</th>
+     <th> Placement </th>
+   </tr>
+   <tr>
+     <td>Idée d'une Histoire universelle au point de vue cosmopolitique </td>
+     <td>Emmanuel KANT</td>
+    
+   </tr>
+  <table>
+   <tr>
+     <th>La Science</th>
+     <th>La Religion</th>
+     <th>La Philosophie</th>
+   </tr>
+   <tr>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique <br /> (sûr et certain)</b><br /> Ex: Maths</p></td>
+     <td style="color:#FF0000;">Emmanuel KANT</td>
+     <td>Filosofia</td>
+   </tr>
+ </table> 
  
  </body>
 </html>
