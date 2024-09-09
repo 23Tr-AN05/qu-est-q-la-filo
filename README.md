@@ -119,9 +119,9 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <th>La Philosophie</th>
    </tr>
    <tr>
-     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique <br /> (sûr et certain)</b><br /> Ex: Maths</p></td>
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique  (sûr et certain)</b><br /> Ex: Maths</p></td>
      <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique </b> qui se repose sur des livres sacrés<br> <b style="color:#FF0F00;"> Les vérités sont révélées</b><br> - elle repose sur <b style="color:#0000FF;">la foi </b> et <b style="color:#0000FF"> la croyance</b></p></td>
-     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir apodictique <br /> (sûr et certain)</b><br /> Ex: Maths</p></td>     
+     <td><p id="p1">- c'est un <b style="color:#FF0000;"> savoir zététique</b></p></td>     
    </tr>
  </table> 
  
