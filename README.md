@@ -50,7 +50,7 @@
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>  
  <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="640" height="480" allow="autoplay"></iframe>
- <img scr="![alt text](image.png)" width="500" height="150"/>
+ <img scr="filo.jpg" width="500" height="150"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  <br>
  <p id="para3">Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.
@@ -92,7 +92,11 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <td>Filosofia</td>
    </tr>
  </table>
- <br><br>
+ <br><br> 
+ <img scr="image-1.png" width="500" height="150"/> <--fonctionne mais non-->
+
+ 
+
  <p id="para3">La philosophie doit chercher à être:</p>
  <ul>
     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. précise </li>
@@ -100,9 +104,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;φ. critique: esprit critique → temps pour s'informer et pour construire son propre avis sant être influencé</li>
  </ul>
 
- <img scr="image-1.png" width="500" height="150"/>
-
- <img scr="image-1.png"/>
+ 
  
  
  </body>
