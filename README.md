@@ -147,7 +147,7 @@ tenir compte des lois instituées pas les hommes. </p>
  <hr>
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  
- <iframe src="https://drive.google.com/file/d/1-tvcfk4wfHdoVw6xwjGGo0-UQZUSB7LU/preview" width="1000" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1-tvcfk4wfHdoVw6xwjGGo0-UQZUSB7LU/preview" width="700" height="1200" allow="autoplay"></iframe>
  
  
  </body>
