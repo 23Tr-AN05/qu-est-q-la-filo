@@ -119,8 +119,8 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="150" allow="autoplay"></iframe>
  <br><br>
 
- <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
-<br>
+ <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i><br>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
+ <br>
  
  <p id="para3">La maïeutique repose sur <i style="color=#E715FF"> la théorie de la réminiscence</i> (croyance indoeuropéenne): nos âmes auraient contemplé, dans le monde des Idées (bonheur, vérité, justice, …), toutes les vérités. Mais, au moment où<br> elles s’incarnent, elles oublienttout. Le but de la maïeutique est de retrouver ces Idées oubliées.</p>
  <br>
@@ -137,7 +137,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <p id="para3">Pour résoudre l’énigme de l’oracle, Socrate se rend sur agora (place publique) afin de questionner les personnes qui sont sensées avoir une connaissance sur leur pratique : artisans, poètes, politiciens….
  <br>Ce dont Socrate s’aperçoit, c’est qu’elles pensent savoir mais elles ne savent pas. Donc, Socrate est sage en ce qu’il sait, qu’il a conscience qu’il ne sait pas :</p>
- <p id="para7">  « Ce que je sqis, c'est que je ne sais pas / rien. »</p>
+ <p id="para7">  « Ce que je sais, c'est que je ne sais pas / rien. »</p>
  <p id="para3">Socrate était un homme qui ne craignait pas la mort et suivait la justice sans
 tenir compte des lois instituées pas les hommes. </p>
 
