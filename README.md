@@ -69,10 +69,10 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3">La naissance de la philosophie a lieu grâce à une émotion: l' <mark>étonnement face</mark>:</p>
  <ul>
       <li id="para3">φ.  au monde qui entoure l’homme (beauté, catastrophes naturelles,…) </li>
-      <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5" style="border: 1px solid black; padding: 10px;">QUE PUIS-JE CONNAÎTRE ?</b></li>
+      <li id="para3">φ.   à la <i id="para4"> mythologie, la science</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE CONNAÎTRE ?</b></li>
       <li id="para3">φ.à la mort =<i id="para4">la finitude</i></li>
-      <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5" style="border: 1px solid black; padding: 10px;">QUE PUIS-JE ESPÉRER ?</b></li>
-      <li id="para3">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5" style="border: 1px solid black; padding: 10px;">QUE DOIS-JE FAIRE ?</b></li>
+      <li id="para3">φ.à la <i id="para4">religion</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE PUIS-JE ESPÉRER ?</b></li>
+      <li id="para3">φ.à la <i id="para4">morale</i><br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<b id="para5">QUE DOIS-JE FAIRE ?</b></li>
  </ul>
  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>QU’EST-CE QUE L’HOMME ?</b></p>
  <br>
