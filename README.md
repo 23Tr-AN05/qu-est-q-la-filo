@@ -147,7 +147,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>
  <a href="image/qu_est-ce_que_le_philosophie.pdf" dowload><p id="para3">Cliquer ici pour télécharger!</p></a>
  <br><br>
- <embed type="application/pdf" src="image\qu_est-ce_que_le_philosophie.pdf" width="700" height="1000">
+ <embed type="application/pdf" src="image\qu_est-ce_que_le_philosophie.pdf" width="1000" height="1500">
 
 
 
