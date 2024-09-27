@@ -146,22 +146,15 @@ tenir compte des lois instituées pas les hommes. </p>
  <hr>
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <br>
- <a href="image/Comment_peut-on_établir_la_vérité.pdf" dowload>Techerfbfbss</a>
+ <a href="image/qu_est-ce_que_le_philosophie.pdf" dowload>Techerfbfbss</a>
  <br><br>
 
 
- <embed type="application/pdf" src="image\Comment_peut-on_établir_la_vérité.pdf" width="700" height="1000">
+ <embed type="application/pdf" src="image\qu_est-ce_que_le_philosophie.pdf" width="700" height="1000">
 
 
 
 
-
-
-
-
-
- <iframe src="https://drive.google.com/file/d/1-tvcfk4wfHdoVw6xwjGGo0-UQZUSB7LU/preview" width="700" height="1000" allow="autoplay"></iframe>
- 
  
  </body>
 </html>
