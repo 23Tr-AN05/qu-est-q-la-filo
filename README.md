@@ -56,7 +56,7 @@
  <br>
  <p id="para2">L'étymologie grecque du mot "Philosophie":</p>  
  <iframe src="https://drive.google.com/file/d/14BgtKV6_uXQsB_hg8aT5UZT3TVkRV4-U/preview" width="500" height="150" allow="autoplay"></iframe>
- <img src="image/filo.jpg" width="500" height="150"/>
+ <img src="image/filo.jpg" width="1000" height="300"/>
  <p id="para3"> La philosophie est donc l'amour de la <b style="color:red;"> sagesse </b> et de<b style="color:red;"> savoir</b>. Le philosophe les désire, les recherche, parce qu'il ne les possède pas.  </p>
  <br>
  <p id="para3">Le Sage (≠philosophe) incarne ses idées, c'est un <i><mark> savoir pratique, en acte</mark></i>, ses idées servent un idéal du bien qui le dépasse en tant qu'individu.
@@ -86,7 +86,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</font></p>
   <br><br> 
- <img scr="image-1.png" width="500" height="150"/> 
+ <img src="image/tb.png" width="500" height="150"/> 
  
  <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
  <br><br>
@@ -117,6 +117,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>Sa mère est une sage-femme.</p>
  <br>
  <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="150" allow="autoplay"></iframe>
+ <img src="image/et.jpg" width="1000" height="300"/>
  <br><br>
 
  <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i><br>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
