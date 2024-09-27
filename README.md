@@ -135,10 +135,9 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br> Chéréphon demande à la Pythie : « Quel est le plus sage des Hommes », La Pythie répond qu’il s’agit de Socrate. </p>
  <br>
  <p id="para3">Pour résoudre l’énigme de l’oracle, Socrate se rend sur agora (place publique) afin de questionner les personnes qui sont sensées avoir une connaissance sur leur pratique : artisans, poètes, politiciens….
- <br>Ce dont Socrate s’aperçoit, c’est qu’elles pensent savoir mais elles ne savent pas. Donc, Socrate est sage en ce qu’il sait, qu’il a conscience qu’il ne sait pas :</p>
+ <br>Ce dont Socrate s’aperçoit, c’est qu’elles pensent savoir mais elles ne savent pas. Donc, Socrate est sage <br>en ce qu’il sait, qu’il a conscience qu’il ne sait pas :</p>
  <p id="para7">  « Ce que je sais, c'est que je ne sais pas / rien. »</p>
- <p id="para3">Socrate était un homme qui ne craignait pas la mort et suivait la justice sans
-tenir compte des lois instituées pas les hommes. </p>
+ <p id="para3">Socrate était un homme qui ne craignait pas la mort et suivait la justice sans tenir compte des lois instituées pas les hommes. </p>
 
  <br><br>
  <hr>
@@ -146,10 +145,8 @@ tenir compte des lois instituées pas les hommes. </p>
  <hr>
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <br>
- <a href="image/qu_est-ce_que_le_philosophie.pdf" dowload>Techerfbfbss</a>
+ <a href="image/qu_est-ce_que_le_philosophie.pdf" dowload><p id="para3">Cliquer ici pour télécharger!</p></a>
  <br><br>
-
-
  <embed type="application/pdf" src="image\qu_est-ce_que_le_philosophie.pdf" width="700" height="1000">
 
 
