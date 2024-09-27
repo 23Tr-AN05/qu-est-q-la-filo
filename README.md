@@ -86,7 +86,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</font></p>
   <br><br> 
- <img src="image/tb.png" width="700" height="500"/> 
+ <img src="image/tb.png" width="600" height="200"/> 
  
  <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
  <br><br>
