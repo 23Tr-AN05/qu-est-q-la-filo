@@ -86,7 +86,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <p id="para3"> La mort est <font color="#F0647B">inconditionnelle</font>.
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color="F0647B">(c-à-d. qui arrive sans condition.s, n'importe où, n'importe quand)</font></p>
   <br><br> 
- <img src="image/tb.png" width="600" height="200"/> 
+ <img src="image/tb.png" width="800" height="550"/> 
  
  <iframe src="https://drive.google.com/file/d/11lIVmVaC4KPXCqkYhjwmVa3yTE9bS7GA/preview" width="640" height="480" allow="autoplay"></iframe>
  <br><br>
@@ -117,7 +117,7 @@ mal ; le juste/ l’injuste, sur les lois, ainsi naît la philosophie.</p>
  <br>Sa mère est une sage-femme.</p>
  <br>
  <iframe src="https://drive.google.com/file/d/130ty7XexibIBON_ct7OP587mjOdok_Tn/preview" width="640" height="150" allow="autoplay"></iframe>
- <img src="image/et.jpg" width="1000" height="400"/>
+ <img src="image/et.jpg" width="6000" height="200"/>
  <br><br>
 
  <p id="para3">SOCRATE pratique une méthode pour accéder à la vérité, qui procède par questions-réponses: <font color="FF0000"><i><br>La maïeutique</i></font>=> <font color="0FFF00">il accouche les âmes de la vérité qu'elles possèdaient mais qu'elles ont oublié.</font></p>
